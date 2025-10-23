@@ -3,19 +3,19 @@
     {
       "muscle": "triceps",
       "name": "flexão",
-      "equipament": "superfície",
+      "equipment": "superfície",
       "instructions": "Apoie as suas duas mãos em uma superfície e realize o movimento de empurrar."
     },
     {
       "muscle": "abdômen",
       "name": "abdominais",
-      "equipament": "superfície",
+      "equipment": "superfície",
       "instructions": "bla bla bla bla"
     },
     {
       "muscle": "abdômen",
       "name": "abdominais",
-      "equipament": "superfície",
+      "equipment": "superfície",
       "instructions": "bla bla bla bla"
     }
   ]
