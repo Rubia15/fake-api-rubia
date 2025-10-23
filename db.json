@@ -1,16 +1,16 @@
 {
   "exercicios": [
     {
-      "musculo": "triceps",
-      "nome": "flexão",
-      "equipamento": "superfície",
-      "instrução": "Apoie as suas duas mãos em uma superfície e realize o movimento de empurrar."
+      "muscle": "triceps",
+      "name": "flexão",
+      "equipament": "superfície",
+      "instructions": "Apoie as suas duas mãos em uma superfície e realize o movimento de empurrar."
     },
     {
-      "musculo": "abdômen",
-      "nome": "abdominais",
-      "equipamento": "superfície",
-      "instrução": "bla bla bla bla"
+      "muscle": "abdômen",
+      "name": "abdominais",
+      "equipament": "superfície",
+      "instructions": "bla bla bla bla"
     }
   ]
 }
