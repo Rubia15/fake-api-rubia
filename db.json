@@ -11,6 +11,12 @@
       "name": "abdominais",
       "equipament": "superfície",
       "instructions": "bla bla bla bla"
+    },
+    {
+      "muscle": "abdômen",
+      "name": "abdominais",
+      "equipament": "superfície",
+      "instructions": "bla bla bla bla"
     }
   ]
 }
